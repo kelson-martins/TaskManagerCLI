@@ -1,2 +1,3 @@
 # taskmanagercli
-Simple task manager developed to test the power of the Commons CLI AI for the development of command line based systems
+Simple Task Manager Application<br />
+Developed to test the power of the Apache Commons CLI API for the development of command line based systems
